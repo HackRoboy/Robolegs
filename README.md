@@ -9,3 +9,7 @@ The main challenge was to understand the sensors, its calibration and implement 
 At the very end of the hackathon our robot can already stabilize itself and counteract small disturtions.
 
 We learned about myorobotics, how to exchange tendons after failed attempts as well as about robot control algorithms.
+
+Here is a quick pick on the mechanism being control in a position where ith out control was unstable: https://youtu.be/iNIt2GMIuko
+
+And more media here: https://devpost.com/software/robolegs
